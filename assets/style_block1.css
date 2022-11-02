@@ -1,0 +1,21 @@
+.about{
+    display: grid;
+    grid-template-columns: 600px 650px;
+    width: 100%;
+    
+    }
+    .text{
+    background-color: rgb(224, 221, 221);
+    width: 100%;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: small;
+    line-height: 65px;
+    
+    }
+    
+    .photo{
+    background-size: cover;
+    width: 100%;
+        
+    }
